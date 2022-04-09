@@ -1,2 +1,2 @@
 # Tile-flip-game
-A tile flipping multiplayer game made in Html and JavaScript and websocket
+A tile flipping multiplayer game made in Html,JavaScript and websocket
